@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C98CA2AA-9127-487D-805E-B8A9405E2561}"
 	ProjectSection(SolutionItems) = preProject
-		QnACovidBot.html = QnACovidBot.html
+		index.html = index.html
 	EndProjectSection
 EndProject
 Global
